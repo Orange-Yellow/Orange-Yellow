@@ -35,10 +35,10 @@
 <!-- 敲代码的图片 -->
 <!-- <div align="right" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div> -->
 <br>
-<p align = "center">
-  <img align='left' src = "https://github-readme-stats.vercel.app/api?username=Orange-Yellow&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Orange-Yellow&theme=tokyonight&layout=compact">
-</p>
+<!-- <p align = "center"> -->
+  <img align='center' src = "https://github-readme-stats.vercel.app/api?username=Orange-Yellow&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Orange-Yellow&theme=tokyonight&layout=compact">
+<!-- </p> -->
 
   
 
