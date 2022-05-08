@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🏀
 -->
+🔭 I’m currently working on web full stack
+🌱 I’m currently learning Golang
+⚡ Fun fact: 🏀
