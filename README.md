@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🏀
 -->
+![](https://komarev.com/ghpvc/?username=Orange-Yellow)
+
 🔭 I’m currently working on web full stack
 
 🌱 I’m currently learning Golang
 
 ⚡ Fun fact: 🏀
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orange-Yellow&theme=aura&show_icons=true)
